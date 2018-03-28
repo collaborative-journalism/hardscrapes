@@ -8,3 +8,4 @@ Just listing some stuff for now, unstructured:
 - https://efdsearch.senate.gov/search/home/; Senate disclsoures; cookie/state-based navigation, data in HTML and PDF, inconsistent naming
 - http://exthcpui.pfizer.com:84/HCPDisclosureWebApplication/jsp/payments_report.jsp; Pfizer payments to doctors, so, so unnecessarily complicated, so so many pages
 - https://services.sccgov.org/facilityinspection;Santa Clara county food facility inspection report; please don't make gov sites rely on AJAX
+- http://ireports.wrapsnet.org/Interactive-Reporting/EnumType/Report?ItemPath=/rpt_WebArrivalsReports/MX%20-%20Arrivals%20by%20Nationality%20and%20Religion; Getting daily numbers requires requesting a report covering a single day, which requires, as far as I can tell, clicking a zillion buttons. 
